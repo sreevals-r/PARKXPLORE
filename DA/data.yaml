@@ -1,0 +1,7 @@
+path: D:/PARKEXPLORE/DA  # Root where train/ valid/ folders exist
+train: train/images
+val: valid/images  # Or 'valid/images' if folder named 'valid'
+test: test/images
+
+nc: 1
+names: ['car']

@@ -1,0 +1,7 @@
+names:
+- car
+nc: 1
+path: D:/PE2/dataset
+test: test/images
+train: train_augmented/images
+val: valid/images

@@ -1,0 +1,14 @@
+path: D:/PE2/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['Car']
+
+roboflow:
+  workspace: miraz
+  project: car-parking-6effs
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/miraz/car-parking-6effs/dataset/1
