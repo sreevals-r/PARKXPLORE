@@ -28,7 +28,7 @@ The pipeline converts raw video frames into actionable parking occupancy status:
 - `dataset/` – Train/valid/test images and labels
 - `output/` – Inference outputs
 - `runs/` – Training run logs, weights, metrics
-- `parking_slots.json` – Parking slots coordinate mapping data
+- `parking_slots.json` - Parking slots coordinate mapping data
 - `check_labels.py`, `check_occupancy.py`, `mark_slots.py` – Data integrity and slot tools
 - `finetune.py`, `testmodel.py` – Model training and testing scripts
 - `preprocess_and_augment.py` – Data preprocessing and augmentation pipeline
